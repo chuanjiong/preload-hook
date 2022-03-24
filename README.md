@@ -1,5 +1,7 @@
 # preload-hook
 
+https://tbrindus.ca/correct-ld-preload-hooking-libc/
+
 //usage:
 
 //gcc hook_fopen.c -o hf.so -fPIC -shared -ldl
